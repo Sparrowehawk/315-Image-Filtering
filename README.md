@@ -7,7 +7,7 @@ Inside the Notebook folder is everything you need to run this project, no need t
 
 Any image can be used; however, it has to be:
 - 1920 x 1080p
-- 3 bit colours
+- 24 bit colours
   - 8 bit Red
   - 8 bit Green
   - 8 bit Blue
