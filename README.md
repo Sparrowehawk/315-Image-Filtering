@@ -12,3 +12,6 @@ Any image can be used; however, it has to be:
   - 8 bit Green
   - 8 bit Blue
 - Tested to work with a JPG image; however, high chance other formats work as well 
+
+
+HLS doesn't work
