@@ -1,32 +1,14 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+﻿proj/DIY/.Xil
+proj/DIY/netlist
+*.log
+proj/DIY/netlist
+*.log
+proj/Viting/Morph/morph_1/.autopilot
+cppIdea/.vs
+proj/Viting/Morph/morph_1
+proj/Viting/Morph/.apc
+*.dmp
+proj/Vit_stream/axis_morph_vit/.apc
+proj/Vit_stream/axis_morph_vit/.settings
+proj/Vit_stream/axis_morph_vit/ms/.autopilot
+proj/Vit_stream/axis_morph_vit/ms/syn
